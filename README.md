@@ -1,2 +1,2 @@
-# Pixargon
-PixargonNetwork hakkında herşey
+# PixargonNetwork
+- Biz Kimiz
